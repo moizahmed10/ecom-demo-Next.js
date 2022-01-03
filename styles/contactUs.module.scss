@@ -19,3 +19,11 @@
     font-size: 20px;
   }
 }
+
+.groupDiv{
+  display: flex;
+  flex-direction: row;
+  .p{
+    text-align: left !important;
+  }
+}
