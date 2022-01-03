@@ -20,7 +20,7 @@ const Banner = () => {
       <Slider {...settings}>
         <div>
           <BannerCard
-            imageUrl="/banner1.webp"
+            imageUrl="/banner1.jpg"
             title="Womens Summer Collection 2021"
             slug="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore "
             catagory="women's clothing"
